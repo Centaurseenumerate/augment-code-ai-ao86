@@ -1,4 +1,4 @@
-# 
+# Leve Augment Code fluxo de trabalho. Com memória contextual e testes automatizados — otimizado para máximo desempenho e eficiência.
 
 
 
